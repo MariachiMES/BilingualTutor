@@ -1,7 +1,5 @@
 const Mongoose = require('mongoose')
 
-const Student = require('./Student')
-
 const userSchema = new Mongoose.Schema({
     firstName: {
         type: String, 

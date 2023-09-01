@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn HOW TO DO YOUR SHIT!!
+          Learn HOW TO DO YOUR SHIT WITH SHIT!!!
         </a>
       </header>
     </div>
